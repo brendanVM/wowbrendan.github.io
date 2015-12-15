@@ -2376,6 +2376,7 @@ select {
     margin-left: 1rem; }
 
 .menu-text {
+  font-family: play;
   font-weight: bold;
   color: inherit;
   line-height: 1;
